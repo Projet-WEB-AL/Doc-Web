@@ -1,6 +1,6 @@
 # Rendu Front
 
-Ce document témoigne des ajouts au sujet initial, et des choix de
+Ce document témoigne des ajouts au sujet initial, et des choix de design pour la partie front du projet de web.
 
 ## Ajouts au sujet
 
@@ -9,7 +9,8 @@ Ce document témoigne des ajouts au sujet initial, et des choix de
 - Vous pouvez vous désabonner des associations sur votre page d'accueil.
 
 - L'utilisateur connecté est affiché en permanance dans la barre de navigation.
- 
+
+
 
 ## Choix de modélisation
 
@@ -27,9 +28,12 @@ Choix d'utilisation d'un composant spécifique pour :
 
 - Choix d'utiliser des Popups, pour modifier un utilisateur, visualiser en détail les informations d'un utilisateur, ou encore certaines popups permettent de créer et modifier les associations.
 
+- Certaines variables scss ont été ajoutées pour les couleurs principales du site, afin de pouvoir etre changés facilement.
+  
 
 ## Choix de design
 
 Les éléments présents dans le site web sont reactifs.
 
 Cela permet la visibilitée des actions possible sur le site et facilite les interractions.
+
