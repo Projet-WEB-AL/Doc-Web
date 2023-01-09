@@ -85,3 +85,11 @@ La page principale est la premiere page qui apparait apres la connection .
 
 
 - 3 ) Les boutons vous permettent d'effectuer les actions sur les utilisateurs
+
+# Barre de navigation
+
+![Alt text](img/Nav.png)
+
+la barre de navigation permet de naviguer entre les pages présentés, en cliquant sur les icons adéquats
+
+Elle contient le bouton pour se déconnecter, et contient égalment l'utilisateur connecté.
