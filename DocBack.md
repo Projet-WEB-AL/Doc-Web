@@ -2,6 +2,7 @@
 
 Ce document rend compte du travail effectué pour le TP web.
 
+
 ## Un tp guidé
 
 etant donné que ce TP se base sur un tutoriel, nous avons eu tres peu de marge de maneuvre sur cette partie la.
@@ -15,23 +16,20 @@ Ce framework permet d'avoir une conformitée dans la facon de développer le bac
 
 Le language utilisé est le TypeScript, un dérivé de java stript fortement typé. Il permet une meileur structure du code en permettant de definir des types.
 
+
 ## Percistance des donnés
 
 Pour sauvegarder les données, ils nous fallait une base de donnée. Dans le sujet, la base de donnée conseilée est SQLight.
 
 Nous avons choisis MySql, car nous l'avions déja utilisée au paravant.
 
-## Relations 
 
+## Relations 
 
 Association : User 
 Une relation many to many est la plus logique. Etant donné qu'une association peut contenir plusieurs users
 
-
 Pour les roles, nous n'avons pas fini l'implémentation, mais il s'agirait du meme type de relation.
-
-
-
 
 
 ## Les modifications apportés au sujet.
